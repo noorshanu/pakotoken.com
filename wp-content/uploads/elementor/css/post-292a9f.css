@@ -90,7 +90,7 @@
   font-weight: bold;
   fill: #000000;
   color: #000000;
-  background-color: #ffffff;
+  background-color: #f2c22a;
   border-radius: 27px 27px 27px 27px;
 }
 .elementor-29
@@ -111,7 +111,7 @@
   font-weight: bold;
   fill: #000000;
   color: #000000;
-  background-color: #ffffff;
+  background-color: #f2c22a;
   border-radius: 27px 27px 27px 27px;
 }
 .elementor-29
@@ -198,8 +198,9 @@
   font-family: "Bariol_Bold", Sans-serif;
   font-size: 19px;
   font-weight: 500;
-  background-color: transparent;
-  background-image: linear-gradient(120deg, #03736d 0%, #3bc080 91%);
+  background-color: #f2c22a;
+  color: #000000;
+
   border-radius: 38px 38px 38px 38px;
 }
 .elementor-29
@@ -362,7 +363,7 @@
   padding: 0px 0px 0px 0px;
 }
 .elementor-29 .elementor-element.elementor-element-7127634 img {
-  width: 18%;
+  width: 38%;
 }
 .elementor-29
   .elementor-element.elementor-element-7127634
@@ -394,8 +395,10 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: transparent;
-  background-image: linear-gradient(150deg, #03736d 7%, #3bc080 97%);
+    background-color: #fbb034;
+        background-image: linear-gradient(
+    315deg
+    , #6f6d6a 0%, #d6a50c 74%);
 }
 .elementor-29
   .elementor-element.elementor-element-2e1df4b
@@ -483,8 +486,10 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: transparent;
-  background-image: linear-gradient(150deg, #03736d 7%, #3bc080 97%);
+    background-color: #fbb034;
+      background-image: linear-gradient(
+  315deg
+  , #6f6d6a 0%, #d6a50c 74%);
 }
 .elementor-29
   .elementor-element.elementor-element-4416ef4
@@ -1619,12 +1624,12 @@
   padding: 0px 0px 0px 0px;
 }
 .elementor-29 .elementor-element.elementor-element-7ed799e img {
-  width: 43%;
+  width: 25%;
 }
 .elementor-29
   .elementor-element.elementor-element-7ed799e
   > .elementor-widget-container {
-  margin: -43px 0px 0px 0px;
+  margin: 7px 0px 0px 0px;
 }
 .elementor-29 .elementor-element.elementor-element-3ce4c7f {
   text-align: center;
@@ -2571,8 +2576,10 @@ body:not(.rtl)
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: transparent;
-  background-image: linear-gradient(150deg, #03736d 7%, #3bc080 100%);
+    background-color: #fbb034;
+      background-image: linear-gradient(
+  315deg
+  , #6f6d6a 0%, #d6a50c 74%);
 }
 .elementor-29
   .elementor-element.elementor-element-ea3b0e9
@@ -3082,8 +3089,8 @@ body:not(.rtl)
   font-family: "Bariol_Bold", Sans-serif;
   font-size: 16px;
   font-weight: 500;
-  background-color: transparent;
-  background-image: linear-gradient(120deg, #03736d 0%, #3bc080 91%);
+  background-color: #f2c22a;
+  color:#000000;
   border-radius: 38px 38px 38px 38px;
 }
 .elementor-29
@@ -3107,8 +3114,9 @@ body:not(.rtl)
   font-family: "Bariol_Bold", Sans-serif;
   font-size: 16px;
   font-weight: 500;
-  background-color: transparent;
-  background-image: linear-gradient(120deg, #03736d 0%, #3bc080 91%);
+  background-color: #f2c22a;
+  color: #000000;
+
   border-radius: 38px 38px 38px 38px;
 }
 .elementor-29
