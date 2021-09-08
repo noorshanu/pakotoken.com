@@ -318,7 +318,7 @@
 .elementor-29 .elementor-element.elementor-element-d7a17a5 {
   margin-top: -150px;
   margin-bottom: 0px;
-  padding: 200px 0px 200px 0px;
+  padding: 70px 0px 200px 0px;
 }
 .elementor-29
   .elementor-element.elementor-element-12b7b2c
@@ -345,7 +345,7 @@
 .elementor-29
   .elementor-element.elementor-element-0f79e4e
   > .elementor-widget-container {
-  margin: 250px 0px 30px 0px;
+  margin: 0px 0px 30px 0px;
   padding: 0px 0px 0px 0px;
 }
 .elementor-29
@@ -1720,8 +1720,10 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: transparent;
-  background-image: linear-gradient(150deg, #03736d 7%, #3bc080 97%);
+    background-color: #fbb034;
+    background-image: linear-gradient(
+315deg
+ , #6f6d6a 0%, #d6a50c 74%);
 }
 .elementor-29
   .elementor-element.elementor-element-a889929
@@ -1803,8 +1805,10 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: transparent;
-  background-image: linear-gradient(150deg, #03736d 7%, #3bc080 97%);
+    background-color: #fbb034;
+    background-image: linear-gradient(
+315deg
+ , #6f6d6a 0%, #d6a50c 74%);
 }
 .elementor-29
   .elementor-element.elementor-element-c48246d
